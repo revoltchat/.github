@@ -1,6 +1,6 @@
-# Revolt
-
-![Screenshot of Revolt client with the Testers server open at the Information and Rules channel.](/screenshot.png)
+<p align="center">
+  <img src="/screenshot.png" alt="Screenshot of Revolt client with the Testers server open at the Information and Rules channel." />
+</p>
 
 This organisation contains all of the relevant repositories for the [Revolt platform](https://revolt.chat).
 
