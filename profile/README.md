@@ -4,10 +4,10 @@
 
 This organisation contains all of the relevant repositories for the [Revolt platform](https://revolt.chat).
 
-### Links
+## Links
 
-- [Website](https://revolt.chat)
-- [Developer Documentation](https://developers.revolt.chat)
-- [Donate to Revolt](https://insrt.uk/donate)
-- [awesome-revolt](https://github.com/insertish/awesome-revolt)
-- [Discussions](https://github.com/revoltchat/revolt/discussions)
+- ### [🌍 Website](https://revolt.chat): The Revolt website.
+- ### [💖 Donate to Revolt](https://insrt.uk/donate): Help support the project.
+- ### [✨ awesome-revolt](https://github.com/insertish/awesome-revolt): Find libraries and more!
+- ### [🦜 Discussions](https://github.com/revoltchat/revolt/discussions): Request features or ask questions.
+- ### [🔧 Developer Documentation](https://developers.revolt.chat): Docs for developers.
