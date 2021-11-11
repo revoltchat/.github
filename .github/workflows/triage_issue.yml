@@ -1,3 +1,4 @@
+# Triage issue into the project tracker
 name: Add Issue to Board
 
 on:
