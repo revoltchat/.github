@@ -1,7 +1,9 @@
 name: Add Issue to Board
+
 on:
   issues:
     types: [opened]
+
 jobs:
   track_issue:
     runs-on: ubuntu-latest
