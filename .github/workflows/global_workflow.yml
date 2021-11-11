@@ -1,0 +1,21 @@
+name: Global workflow to rule them all
+
+on:
+  push:
+    branches: [ master ] #or main
+  workflow_dispatch: {} #to enable manual triggering of the action
+
+jobs:
+
+  replicate_changes:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: derberg/global-workflows-support@v0.0.2
+        with:
+          github_token: ${{ secrets.PAT }}
+          files_to_ignore: global_workflow.yml
+          exclude_private: true
+          commit_message: "ci: update global workflows"
