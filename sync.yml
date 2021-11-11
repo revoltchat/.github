@@ -1,0 +1,21 @@
+group:
+  repos: |
+    revoltchat/delta
+    revoltchat/self-hosted
+    revoltchat/translations
+    revoltchat/vortex
+    revoltchat/revolt
+    revoltchat/revolt.js
+    revoltchat/desktop
+    revoltchat/revite
+    revoltchat/january
+    revoltchat/autumn
+    revoltchat/legal
+    revoltchat/documentation
+    revoltchat/api
+    revoltchat/themes
+    revoltchat/cli
+    revoltchat/revolt.chat
+  files:
+    - source: workflows/triage_issue.yml
+      dest: .github/workflows/triage_issue.yml
