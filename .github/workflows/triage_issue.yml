@@ -3,7 +3,7 @@ on:
   issues:
     types: [opened]
 jobs:
-  track_pr:
+  track_issue:
     runs-on: ubuntu-latest
     steps:
       - name: Get project data
@@ -12,7 +12,7 @@ jobs:
         run: |
           gh api graphql -f query='
             query {
-              user(organisation: "revoltchat"){
+              organization(login: "revoltchat"){
                 projectNext(number: 3) {
                   id
                   fields(first:20) {
@@ -26,9 +26,9 @@ jobs:
               }
             }' > project_data.json
 
-          echo 'PROJECT_ID='$(jq '.data.organisation.projectNext.id' project_data.json) >> $GITHUB_ENV
-          echo 'STATUS_FIELD_ID='$(jq '.data.organisation.projectNext.fields.nodes[] | select(.name== "Status") | .id' project_data.json) >> $GITHUB_ENV
-          echo 'TODO_OPTION_ID='$(jq '.data.organisation.projectNext.fields.nodes[] | select(.name== "Status") |.settings | fromjson.options[] | select(.name=="Todo") |.id' project_data.json) >> $GITHUB_ENV
+          echo 'PROJECT_ID='$(jq '.data.organization.projectNext.id' project_data.json) >> $GITHUB_ENV
+          echo 'STATUS_FIELD_ID='$(jq '.data.organization.projectNext.fields.nodes[] | select(.name== "Status") | .id' project_data.json) >> $GITHUB_ENV
+          echo 'TODO_OPTION_ID='$(jq '.data.organization.projectNext.fields.nodes[] | select(.name== "Status") |.settings | fromjson.options[] | select(.name=="Todo") |.id' project_data.json) >> $GITHUB_ENV
 
       - name: Add issue to project
         env:
