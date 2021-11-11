@@ -19,3 +19,5 @@ group:
   files:
     - source: workflows/triage_issue.yml
       dest: .github/workflows/triage_issue.yml
+    - source: workflows/triage_pr.yml
+      dest: .github/workflows/triage_pr.yml
