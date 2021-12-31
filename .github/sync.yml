@@ -1,6 +1,7 @@
 group:
   repos: |
     revoltchat/delta
+    revoltchat/bonfire
     revoltchat/self-hosted
     revoltchat/translations
     revoltchat/vortex
