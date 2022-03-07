@@ -17,7 +17,7 @@ This organisation contains all of the relevant repositories for the [Revolt plat
 
 Revolt is currently available on a variety of platforms:
 - You can install and use the PWA on mobile / desktop by going directly to [https://app.revolt.chat](https://app.revolt.chat).
-- On **Android**, you can get the TWA from the [Play Store](https://play.google.com/store/apps/details?id=chat.revolt.app.twa) or [F-droid](https://fdroid.revolt.chat/repo).
+- On **Android**, you can get the TWA from the [Play Store](https://play.google.com/store/apps/details?id=chat.revolt.app.twa) or [F-Droid](https://fdroid.revolt.chat/repo).
 - On **Linux**:
   - If you have the **AUR**, you can get Revolt using the [`revolt-desktop-git`](https://aur.archlinux.org/packages/revolt-desktop-git) package.
   - You can get it from [FlatHub](https://flathub.org/apps/details/chat.revolt.RevoltDesktop).
