@@ -17,9 +17,9 @@ This organisation contains all of the relevant repositories for the [Revolt plat
 
 Revolt is currently available on a variety of platforms:
 - ### Any: [Web App / PWA](https://app.revolt.chat)
-- ### Windows 10 / 11: [Microsoft Store](http://go.microsoft.com/fwlink/?LinkId=532540&mstoken=246FT-4KJ4R-KYDQH-WC76C-FJPXZ)
-- ### Linux: [Arch User Repository](https://aur.archlinux.org/packages/revolt-desktop-git)
-- ### Linux: [FlatHub](https://flathub.org/apps/details/chat.revolt.RevoltDesktop)
-- ### Any Desktop: [revoltchat/desktop](https://github.com/revoltchat/desktop/releases)
-- ### Android: [Google Play Store](https://play.google.com/store/apps/details?id=chat.revolt.app.twa)
-- ### Android: [F-Droid Repo](https://fdroid.revolt.chat/repo)
+- ### <img src="windows.png" height="16" /> Windows 10 / 11: [Microsoft Store](http://go.microsoft.com/fwlink/?LinkId=532540&mstoken=246FT-4KJ4R-KYDQH-WC76C-FJPXZ)
+- ### <img src="arch.png" height="16" /> Linux: [Arch User Repository](https://aur.archlinux.org/packages/revolt-desktop-git)
+- ### <img src="tux.png" height="16" /> Linux: [FlatHub](https://flathub.org/apps/details/chat.revolt.RevoltDesktop)
+- ### <img src="windows.png" height="16" /> <img src="tux.png" height="16" />  <img src="macOS.png" height="16" /> Any Desktop: [revoltchat/desktop](https://github.com/revoltchat/desktop/releases)
+- ### <img src="android.png" height="16" /> Android: [Google Play Store](https://play.google.com/store/apps/details?id=chat.revolt.app.twa)
+- ### <img src="android.png" height="16" /> Android: [F-Droid Repo](https://fdroid.revolt.chat/repo)
