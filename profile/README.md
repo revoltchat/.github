@@ -13,7 +13,7 @@ This organisation contains all of the relevant repositories for the [Revolt plat
 - ### [🦜 Discussions](https://github.com/orgs/revoltchat/discussions): Request features or ask questions.
 - ### [🔧 Developer Documentation](https://developers.revolt.chat): Docs for developers.
 
-# Download Links
+# Get Revolt
 
 Revolt is currently available on a variety of platforms:
 - ### Any: [Web App / PWA](https://app.revolt.chat)
