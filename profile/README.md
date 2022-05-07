@@ -1,5 +1,3 @@
-# [⚠️ 0.5.3 Release is underway](https://github.com/revoltchat/revolt/issues/322)
-
 <p align="center">
   <img src="/screenshots/2022-03.png" alt="Screenshot of Revolt client with the Testers server open at the Information and Rules channel." />
 </p>
