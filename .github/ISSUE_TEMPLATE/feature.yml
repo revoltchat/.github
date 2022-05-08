@@ -1,0 +1,12 @@
+name: Feature request
+description: Make a feature request
+title: "feature request: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: your-idea
+    attributes:
+      label: What do you want to see?
+      description: Describe your idea in as much detail as possible - if applicable, screenshots/mockups are really useful.
+    validations:
+      required: true
