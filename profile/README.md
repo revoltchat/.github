@@ -1,8 +1,8 @@
+**Revolt** is an open source user-first chat platform, on this page you can find useful resources about the project.
+
 <p align="center">
   <img src="/screenshots/2022-03.png" alt="Screenshot of Revolt client with the Testers server open at the Information and Rules channel." />
 </p>
-
-This organisation contains all of the relevant repositories for the [Revolt platform](https://revolt.chat).
 
 # Links
 
