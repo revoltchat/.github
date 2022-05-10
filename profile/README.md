@@ -17,7 +17,7 @@
 
 Revolt is currently available on a variety of platforms:
 - ### Any: [Web App / PWA](https://app.revolt.chat)
-- ### <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/windows.png" height="16" /> Windows 10 / 11: [Microsoft Store](http://go.microsoft.com/fwlink/?LinkId=532540&mstoken=246FT-4KJ4R-KYDQH-WC76C-FJPXZ)
+- ### <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/windows.png" height="16" /> Windows 10 / 11: [Microsoft Store](http://go.microsoft.com/fwlink/?LinkId=532540&mstoken=MY239-D6DP9-M96PF-7C2GH-Q63JZ)
 - ### <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/arch.png" height="16" /> Linux: [Arch User Repository](https://aur.archlinux.org/packages/revolt-desktop-git)
 - ### <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/tux.png" height="16" /> Linux: [FlatHub](https://flathub.org/apps/details/chat.revolt.RevoltDesktop)
 - ### <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/windows.png" height="16" /> <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/tux.png" height="16" />  <img src="https://raw.githubusercontent.com/revoltchat/.github/master/profile/macOS.png" height="16" /> Any Desktop: [revoltchat/desktop](https://github.com/revoltchat/desktop/releases)
