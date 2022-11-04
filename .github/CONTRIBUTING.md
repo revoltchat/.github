@@ -1,3 +1,6 @@
+> # Client Refactoring!
+> Revite is currently being deprecated and replaced with a Solid.js client, for more information see https://github.com/revoltchat/revoltchat-solid-client-monorepo/issues/14 with information on how to contribute for the time being.
+
 # Finding Issues
 
 You can find issues using the main project board, here are some categories you should look at in-order:
