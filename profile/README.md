@@ -44,9 +44,9 @@ Here is a list of important repositories and who is managing each.
 |[revolt.js](https://github.com/revoltchat/revolt.js)|JavaScript library|[@insertish](https://github.com/insertish)|
 |[api](https://github.com/revoltchat/api)|JavaScript API library|[@insertish](https://github.com/insertish)|
 |[revolt.py](https://github.com/revoltchat/revolt.py)|Python library|[@Zomatree](https://github.com/Zomatree)|
-|[components](https://github.com/revoltchat/components)|React components library (superseded by Solid monorepo)|[@insertish](https://github.com/insertish)|
-|[translations](https://github.com/revoltchat/translations)|Client translations|Not assigned|
-|[themes](https://github.com/revoltchat/themes)|Revite themes|Not assigned|
+|[components](https://github.com/revoltchat/components)|React components library (superseded by Solid monorepo)|Pending deprecation|
+|[translations](https://github.com/revoltchat/translations)|Client translations|[@Rexogamer](https://github.com/Rexogamer)|
+|[themes](https://github.com/revoltchat/themes)|Revite themes|[@Rexogamer](https://github.com/Rexogamer)|
 |[desktop](https://github.com/revoltchat/desktop)|Electron desktop wrapper for Revite|[@insertish](https://github.com/insertish)|
 |[android-twa](https://github.com/revoltchat/android-twa)|Android Trusted Web Activity|[@insertish](https://github.com/insertish)|
 |[lists_vpn](https://github.com/revoltchat/lists_vpn)|CIDR blocks of VPNs and malicious actors|[@janderedev](https://github.com/janderedev)|
