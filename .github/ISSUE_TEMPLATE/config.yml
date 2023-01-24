@@ -2,6 +2,9 @@ contact_links:
   - name: Lounge Chat
     url: https://rvlt.gg/Testers
     about: Ask questions and discuss with others.
+  - name: Revolt Support
+    url: https://support.revolt.chat/
+    about: See official resources for help with using Revolt or contacting the team.
   - name: Discussions
     url: https://github.com/orgs/revoltchat/discussions
     about: For larger feature requests and general question & answer.

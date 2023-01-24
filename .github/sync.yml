@@ -1,24 +1,26 @@
 group:
   repos: |
-    revoltchat/android-twa
-    revoltchat/api
-    revoltchat/autumn
-    revoltchat/bonfire
-    revoltchat/cli
-    revoltchat/delta
-    revoltchat/desktop
-    revoltchat/fdroid
-    revoltchat/january
-    revoltchat/legal
-    revoltchat/quark
     revoltchat/revite
+    revoltchat/frontend
+    revoltchat/android
     revoltchat/revolt
-    revoltchat/revolt.chat
-    revoltchat/revolt.js
-    revoltchat/self-hosted
-    revoltchat/themes
-    revoltchat/translations
+    revoltchat/backend
     revoltchat/vortex
+    revoltchat/autumn
+    revoltchat/january
+    revoltchat/revolt.js
+    revoltchat/api
+    revoltchat/translations
+    revoltchat/themes
+    revoltchat/desktop
+    revoltchat/android-twa
+    revoltchat/lists_vpn
+    revoltchat/documentation
+    revoltchat/genemoji
+    revoltchat/self-hosted
+    revoltchat/legal
+    revoltchat/contributions
+    revoltchat/fdroid
   files:
     - source: workflows/triage_issue.yml
       dest: .github/workflows/triage_issue.yml

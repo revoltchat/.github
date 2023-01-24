@@ -15,4 +15,5 @@ jobs:
         with:
           GH_PAT: ${{ secrets.PAT }}
           COMMIT_PREFIX: "ci: "
+          COMMIT_BODY: "[skip ci]"
           SKIP_PR: true
