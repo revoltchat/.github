@@ -21,6 +21,7 @@ group:
     revoltchat/legal
     revoltchat/contributions
     revoltchat/fdroid
+    revoltchat/revolt.chat
   files:
     - source: workflows/triage_issue.yml
       dest: .github/workflows/triage_issue.yml
