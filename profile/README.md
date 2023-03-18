@@ -1,4 +1,5 @@
-**Revolt** is an open source user-first chat platform. You can find links to useful resources about the project below.
+# Welcome to Revolt's GitHub organisation!
+**Revolt** is an open source, user-first chat platform. You can find links to useful resources about the project below.
 
 <p align="center">
   <img src="/screenshots/2022-03.png" alt="Screenshot of the Revolt client with the Revolt Testers server open in the Information and Rules channel." />
@@ -8,13 +9,14 @@
 
 - ### [🌍 Website](https://revolt.chat): The Revolt website.
 - ### [💖 Donate to Revolt](https://insrt.uk/donate): Help support the project.
+- ### [📖 Support](https://support.revolt.chat): Get help with using Revolt.
 - ### [✨ awesome-revolt](https://github.com/insertish/awesome-revolt): Find libraries and more!
 - ### [😎 Contributing to Revolt](https://github.com/revoltchat/.github/blob/master/.github/CONTRIBUTING.md): Learn how to contribute to Revolt.
 - ### [🦜 Discussions](https://github.com/orgs/revoltchat/discussions): Request features or ask questions.
 - ### [🔧 Developer Documentation](https://developers.revolt.chat): Docs for developers.
 - ### [💻 Project Tracker](https://github.com/orgs/revoltchat/projects/3/views/1): Full GitHub project overview.
 - ### [🕓 Roadmap](https://trello.com/b/4e2O7tge/roadmap): High-level product roadmap.
-- ### [🧰 Internal Homepage](https://trello.com/b/qEUXfFL5/internal-management): Internal project management board (for Revolt team members).
+- ### [🧰 Internal Homepage](https://trello.com/b/qEUXfFL5/internal-management): Internal project management board for Revolt team members.
 
 # Get Revolt
 
@@ -29,7 +31,7 @@ Below is a list of Revolt client repositories.
 |[revite](https://github.com/revoltchat/revite)|Preact Progressive Web App|[@insertish](https://github.com/insertish)|✅|
 |[frontend](https://github.com/revoltchat/revoltchat-solid-client-monorepo)|Solid.js Progressive Web App|[@insertish](https://github.com/insertish)||
 |[android](https://github.com/revoltchat/android)|Android App|[@infi](https://github.com/infi)||
-|[ios](https://github.com/revoltchat/ios)|iOS App|Waiting for hardware...||
+|[ios](https://github.com/revoltchat/ios)|iOS App|[@zomatree](https://github.com/zomatree)||
 |[rvmob](https://github.com/revoltchat/rvmob)|React Native Client|[@Rexogamer](https://github.com/rexogamer)||
 |[mutiny](https://github.com/revoltchat/mutiny)|GTK4 Desktop Client|On Hold||
 
@@ -47,7 +49,7 @@ Here is a list of important repositories and who is managing each.
 |[revolt.py](https://github.com/revoltchat/revolt.py)|Python library|[@Zomatree](https://github.com/Zomatree)|
 |[components](https://github.com/revoltchat/components)|React components library (superseded by Solid monorepo)|Pending deprecation|
 |[translations](https://github.com/revoltchat/translations)|Client translations|[@Rexogamer](https://github.com/Rexogamer)|
-|[themes](https://github.com/revoltchat/themes)|Revite themes|[@Rexogamer](https://github.com/Rexogamer)|
+|[themes](https://github.com/revoltchat/themes)|Themes for Revite|[@Rexogamer](https://github.com/Rexogamer)|
 |[desktop](https://github.com/revoltchat/desktop)|Electron desktop wrapper for Revite|[@insertish](https://github.com/insertish)|
 |[android-twa](https://github.com/revoltchat/android-twa)|Android Trusted Web Activity|[@insertish](https://github.com/insertish)|
 |[lists_vpn](https://github.com/revoltchat/lists_vpn)|CIDR blocks of VPNs and malicious actors|[@janderedev](https://github.com/janderedev)|
