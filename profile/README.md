@@ -28,8 +28,8 @@ Below is a list of Revolt client repositories.
 |---|---|:-:|:-:|
 |[revite](https://github.com/revoltchat/revite)|Preact Progressive Web App|[@insertish](https://github.com/insertish)|✅|
 |[frontend](https://github.com/revoltchat/revoltchat-solid-client-monorepo)|Solid.js Progressive Web App|[@insertish](https://github.com/insertish)||
-|[android](https://github.com/revoltchat/android)|Android App|[@infi](https://github.com/infi)||
-|[ios](https://github.com/revoltchat/ios)|iOS App|[@zomatree](https://github.com/zomatree)||
+|[android](https://github.com/revoltchat/android) (private repo)|Android App|[@infi](https://github.com/infi)||
+|[ios](https://github.com/revoltchat/ios) (private repo)|iOS App|[@zomatree](https://github.com/zomatree)||
 |[rvmob](https://github.com/revoltchat/rvmob)|React Native Client|[@Rexogamer](https://github.com/rexogamer)||
 |[mutiny](https://github.com/revoltchat/mutiny)|GTK4 Desktop Client|On Hold||
 
