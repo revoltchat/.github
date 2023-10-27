@@ -1,3 +1,4 @@
+# Welcome to Revolt's GitHub organisation!
 **Revolt** is an open source user-first chat platform. You can find links to useful resources about the project below.
 
 <p align="center">
@@ -8,6 +9,7 @@
 
 - ### [🌍 Website](https://revolt.chat): The Revolt website.
 - ### [💖 Donate to Revolt](https://insrt.uk/donate): Help support the project.
+- ### [📖 Support](https://support.revolt.chat): Get help with using Revolt.
 - ### [✨ awesome-revolt](https://github.com/insertish/awesome-revolt): Find libraries and more!
 - ### [😎 Contributing to Revolt](https://github.com/revoltchat/.github/blob/master/.github/CONTRIBUTING.md): Learn how to contribute to Revolt.
 - ### [🦜 Discussions](https://github.com/orgs/revoltchat/discussions): Request features or ask questions.
@@ -49,7 +51,6 @@ Here is a list of important repositories and who is managing each.
 |[themes](https://github.com/revoltchat/themes)|Revite themes|[@Rexogamer](https://github.com/Rexogamer)|
 |[desktop](https://github.com/revoltchat/desktop)|Electron desktop wrapper for Revite|[@insertish](https://github.com/insertish)|
 |[android-twa](https://github.com/revoltchat/android-twa)|Android Trusted Web Activity|[@insertish](https://github.com/insertish)|
-|[lists_vpn](https://github.com/revoltchat/lists_vpn)|CIDR blocks of VPNs and malicious actors|[@janderedev](https://github.com/janderedev)|
 |[documentation](https://github.com/revoltchat/documentation)|Developers site|[@insertish](https://github.com/insertish), [@Rexogamer](https://github.com/Rexogamer)|
 |[genemoji](https://github.com/revoltchat/genmoji)|Emoji pack structure unification toolchain|[@infi](https://github.com/infi)|
 |[self-hosted](https://github.com/revoltchat/self-hosted)|Docker Compose Configuration|[@insertish](https://github.com/insertish)<br/>(nobody assigned to issues)|
