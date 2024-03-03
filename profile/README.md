@@ -34,7 +34,7 @@ Below is a list of Revolt client repositories.
 |[android](https://github.com/revoltchat/android) (private repo)|Android App|[@infi](https://github.com/infi)||
 |[ios](https://github.com/revoltchat/ios) (private repo)|iOS App|[@zomatree](https://github.com/zomatree)||
 |[rvmob](https://github.com/revoltchat/rvmob)|React Native Client|[@Rexogamer](https://github.com/rexogamer)||
-|[mutiny](https://github.com/revoltchat/mutiny)|GTK4 Desktop Client|[@lo-kiss](https://github.com/lo-kiss)||
+|[mutiny](https://github.com/revoltchat/mutiny)|GTK4 Desktop Client|[@lo2dev](https://github.com/lo2dev)||
 
 Here is a list of important repositories and who is managing each.
 
