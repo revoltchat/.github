@@ -15,8 +15,9 @@
 - ### [😎 Contributing to Revolt](https://github.com/revoltchat/.github/blob/master/.github/CONTRIBUTING.md): Learn how to contribute to Revolt.
 - ### [🦜 Discussions](https://github.com/orgs/revoltchat/discussions): Request features or ask questions.
 - ### [🔧 Developer Documentation](https://developers.revolt.chat): Documentation for developers.
-- ### [💻 Project Tracker](https://github.com/orgs/revoltchat/projects/3/views/1): Full GitHub project overview.
-- ### [🕓 Roadmap](https://trello.com/b/4e2O7tge/roadmap): High-level product roadmap.
+- ### [💻 Project Tracker](https://github.com/orgs/revoltchat/projects/3/views/1): GitHub project overview.
+- ### [⬅️ Pull Requests](https://github.com/orgs/revoltchat/projects/5/views/1): GitHub pull request overview.
+- ### [🕓 Roadmap](https://github.com/orgs/revoltchat/projects/6/views/4): High-level product roadmap.
 
 # Get Revolt
 
@@ -86,6 +87,7 @@ Here is a list of important repositories and who is managing each.
 | [legal](https://github.com/revoltchat/legal)                   | Legal documents                            |                       [@insertish](https://github.com/insertish)                       |
 | [revolt](https://github.com/revoltchat/revolt)                 | Organisation repository                    |                                                                                        |
 | [revolt.chat](https://github.com/revoltchat/revolt.chat)       | Landing page                               |                                                                                        |
+| [revolt.py](https://github.com/revoltchat/revolt.py)           | Python wrapper                             |                                                                                        |
 | [self-hosted](https://github.com/revoltchat/self-hosted)       | Docker Compose Configuration               |       [@insertish](https://github.com/insertish)<br/>(nobody assigned to issues)       |
 | [themes](https://github.com/revoltchat/themes)                 | Revite themes                              |                       [@Rexogamer](https://github.com/Rexogamer)                       |
 | [translations](https://github.com/revoltchat/translations)     | Client translations                        |                       [@Rexogamer](https://github.com/Rexogamer)                       |
