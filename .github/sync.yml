@@ -1,27 +1,41 @@
 group:
+  # should match profile/README.md
+  #
+  # excluded repos:
+  # - rfcs: separate issues
+  # - rvmob: separate issues
+  # - mutiny: separate issues
+  # - components: dead repo
+  # - awesome-revolt: separate issues
+  # - revolt: meta-repo
+  # - revolt.py: separate issues
+  # - themes: separate issues
+  # - translations: separate issues
   repos: |
     revoltchat/revite
     revoltchat/frontend
     revoltchat/android
-    revoltchat/revolt
+    revoltchat/ios
+
+    revoltchat/desktop
+    revoltchat/android-twa
+    revoltchat/fdroid
+
     revoltchat/backend
+    revoltchat/api
+    revoltchat/revolt.js
+
     revoltchat/vortex
     revoltchat/autumn
     revoltchat/january
-    revoltchat/revolt.js
-    revoltchat/api
-    revoltchat/translations
-    revoltchat/themes
-    revoltchat/desktop
-    revoltchat/android-twa
-    revoltchat/lists_vpn
+
+    revoltchat/cla
+    revoltchat/contributions
     revoltchat/documentation
     revoltchat/genemoji
-    revoltchat/self-hosted
     revoltchat/legal
-    revoltchat/contributions
-    revoltchat/fdroid
     revoltchat/revolt.chat
+    revoltchat/self-hosted
   files:
     - source: workflows/triage_issue.yml
       dest: .github/workflows/triage_issue.yml
