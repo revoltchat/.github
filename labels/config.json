@@ -1,0 +1,151 @@
+[
+  {
+    "_comment": "This should match .github/sync.yml",
+    "repositories": [
+      "revoltchat/revite",
+      "revoltchat/frontend",
+      "revoltchat/android",
+      "revoltchat/ios",
+      "revoltchat/desktop",
+      "revoltchat/android-twa",
+      "revoltchat/fdroid",
+      "revoltchat/backend",
+      "revoltchat/api",
+      "revoltchat/revolt.js",
+      "revoltchat/vortex",
+      "revoltchat/autumn",
+      "revoltchat/january",
+      "revoltchat/awesome-revolt",
+      "revoltchat/cla",
+      "revoltchat/contributions",
+      "revoltchat/documentation",
+      "revoltchat/genemoji",
+      "revoltchat/legal",
+      "revoltchat/revolt.chat",
+      "revoltchat/self-hosted"
+    ],
+    "milestones": [],
+    "deleteUnknownLabels": true,
+    "deleteUnknownMilestones": false,
+    "labels": [
+      {
+        "name": "bug",
+        "color": "d73a4a",
+        "description": "Something isn't working"
+      },
+      {
+        "name": "enhancement",
+        "color": "a2eeef",
+        "description": "New feature or request"
+      },
+      {
+        "name": "improvement",
+        "color": "ff9f19",
+        "description": "Areas that can be improved on"
+      },
+      {
+        "name": "tech debt",
+        "color": "68bda3",
+        "description": "This issue or pull request is related to technical maintenance"
+      },
+      {
+        "name": "documentation",
+        "color": "0075ca",
+        "description": "Improvements or additions to documentation"
+      },
+      {
+        "name": "performance",
+        "color": "51e898",
+        "description": "Issues relating to app performance"
+      },
+      {
+        "name": "privacy",
+        "color": "ff78cb",
+        "description": "Change which improves user privacy"
+      },
+      {
+        "name": "duplicate",
+        "color": "cfd3d7",
+        "description": "This issue or pull request already exists"
+      },
+      {
+        "name": "fluff",
+        "color": "6a5acd",
+        "description": "Minor improvement / quality of life change"
+      },
+      {
+        "name": "good first issue",
+        "color": "7057ff",
+        "description": "Good for newcomers"
+      },
+      {
+        "name": "help wanted",
+        "color": "008672",
+        "description": "Extra attention is needed"
+      },
+      {
+        "name": "ux review",
+        "color": "1d76db",
+        "description": "This needs UX review"
+      },
+      {
+        "name": "needs design",
+        "color": "1d76db",
+        "description": "This issue needs a design to be implemented"
+      },
+      {
+        "name": "meta",
+        "color": "616161",
+        "description": "Issues regarding repository maintenance"
+      },
+      {
+        "name": "crate:bonfire",
+        "color": "f39900",
+        "description": "crates/bonfire",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:core:config",
+        "color": "7dda58",
+        "description": "crates/core/config",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:core:database",
+        "color": "d158dc",
+        "description": "crates/core/database",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:core:models",
+        "color": "7958dc",
+        "description": "crates/core/models",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:core:permissions",
+        "color": "58c1dc",
+        "description": "crates/core/permissions",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:core:presence",
+        "color": "58dcb2",
+        "description": "crates/core/presence",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:core:result",
+        "color": "dccc58",
+        "description": "crates/core/result",
+        "repos": ["revoltchat/backend"]
+      },
+      {
+        "name": "crate:delta",
+        "color": "008bfe",
+        "description": "crates/delta",
+        "repos": ["revoltchat/backend"]
+      }
+    ]
+  }
+]

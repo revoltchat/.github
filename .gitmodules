@@ -1,0 +1,3 @@
+[submodule "labels/GitHubMilestoneSync"]
+	path = labels/GitHubMilestoneSync
+	url = https://github.com/revoltchat/GitHubMilestoneSync
