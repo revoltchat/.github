@@ -83,7 +83,7 @@ Here is a list of important repositories and who is managing each.
 | [cla](https://github.com/revoltchat/cla)                       | Contributor License Agreement              |                       [@insertish](https://github.com/insertish)                       |
 | [contributions](https://github.com/revoltchat/contributions)   | Open source contribution tracker           |                       [@insertish](https://github.com/insertish)                       |
 | [documentation](https://github.com/revoltchat/documentation)   | Developers site                            | [@insertish](https://github.com/insertish), [@Rexogamer](https://github.com/Rexogamer) |
-| [genemoji](https://github.com/revoltchat/genmoji)              | Emoji pack structure unification toolchain |                            [@infi](https://github.com/infi)                            |
+| [genemoji](https://github.com/revoltchat/genemoji)              | Emoji pack structure unification toolchain |                            [@infi](https://github.com/infi)                            |
 | [legal](https://github.com/revoltchat/legal)                   | Legal documents                            |                       [@insertish](https://github.com/insertish)                       |
 | [revolt](https://github.com/revoltchat/revolt)                 | Organisation repository                    |                                                                                        |
 | [revolt.chat](https://github.com/revoltchat/revolt.chat)       | Landing page                               |                                                                                        |
