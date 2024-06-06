@@ -36,12 +36,10 @@ Here are clients being maintained under Revolt's organisation, though not all of
 | ------------------------------------------------------------ | ---------------------------- | :----------------------------------------: | :-----------------: | :-----------: |
 | [revite](https://github.com/revoltchat/revite)               | Preact Progressive Web App   | [@insertish](https://github.com/insertish) |         ✅          |      ✅       |
 | [frontend](https://github.com/revoltchat/frontend)           | Solid.js Progressive Web App | [@insertish](https://github.com/insertish) |                     |      🚥       |
-| [android](https://github.com/revoltchat/android) (private †) | Android App                  |      [@infi](https://github.com/infi)      |                     |      🚥       |
+| [android](https://github.com/revoltchat/android)             | Android App                  |      [@infi](https://github.com/infi)      |                     |      🚥       |
 | [ios](https://github.com/revoltchat/ios) (private ‡)         | iOS App                      |  [@zomatree](https://github.com/zomatree)  |                     |      🚥       |
 | [rvmob](https://github.com/revoltchat/rvmob)                 | React Native Client          | [@Rexogamer](https://github.com/rexogamer) |                     |      ✅       |
-| [mutiny](https://github.com/revoltchat/mutiny)               | GTK4 Desktop Client          |    [@lo2dev](https://github.com/lo2dev)    |                     |               |
-
-† Currently in a limited private beta.
+| [mutiny](https://github.com/revoltchat/mutiny)               | GTK4 Desktop Client          |                                            |                     |               |
 
 ‡ Currently still under development.
 
