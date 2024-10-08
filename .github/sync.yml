@@ -24,6 +24,7 @@ group:
     revoltchat/backend
     revoltchat/api
     revoltchat/revolt.js
+    revoltchat/admin-panel
 
     revoltchat/vortex
     revoltchat/autumn
