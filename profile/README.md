@@ -75,12 +75,12 @@ Here is a list of important repositories and who is managing each.
 | [awesome-revolt](https://github.com/revoltchat/awesome-revolt) | Awesome list for Revolt                    |                                                                               |
 | [wiki](https://github.com/revoltchat/wiki)                     | Developers site                            |                                                                               |
 | [cla](https://github.com/revoltchat/cla)                       | Contributor License Agreement              |                                                                                        |
-| [contributions](https://github.com/revoltchat/contributions)   | Open source contribution tracker           |                       [@insertish](https://github.com/insertish)                       |
+| [contributions](https://github.com/revoltchat/contributions)   | Open source contribution tracker           |                                 |
 | [genemoji](https://github.com/revoltchat/genemoji)             | Emoji pack structure unification toolchain |                            [@infi](https://github.com/infi)                            |
 | [legal](https://github.com/revoltchat/legal)                   | Legal documents                            |                       [@insertish](https://github.com/insertish)                       |
 | [revolt](https://github.com/revoltchat/revolt)                 | Organisation repository                    |                                                                                        |
 | [revolt.chat](https://github.com/revoltchat/revolt.chat)       | Landing page                               |                                                                                        |
 | [revolt.py](https://github.com/revoltchat/revolt.py)           | Python wrapper                             |                                                                                        |
 | [self-hosted](https://github.com/revoltchat/self-hosted)       | Docker Compose Configuration               |                             [@DeclanChidlow](https://github.com/DeclanChidlow)                                                           |
-| [themes](https://github.com/revoltchat/themes)                 | Revite themes                              |                                         |
-| [translations](https://github.com/revoltchat/translations)     | Client translations                        |                                        |
+| [themes](https://github.com/revoltchat/themes)                 | Revite themes                              |                      [@DeclanChidlow](https://github.com/DeclanChidlow)                      |
+| [translations](https://github.com/revoltchat/translations)     | Client translations                        |                      [@DeclanChidlow](https://github.com/DeclanChidlow)                     |
