@@ -48,7 +48,6 @@ There are also some wrappers and adjacent repositories:
 | [desktop](https://github.com/revoltchat/desktop)         | Electron desktop wrapper for Revite   |               |
 | [android-twa](https://github.com/revoltchat/android-twa) | Android Trusted Web Activity          |               |
 | [fdroid](https://github.com/revoltchat/fdroid)           | F-droid repository (Android releases) |               |
-| [components](https://github.com/revoltchat/components)   | Components library for Revite         |               |
 
 ## Server software
 
@@ -65,9 +64,7 @@ There are also some components which we intend to merge into the backend reposit
 
 | Repository                                       | Description                     |               Maintainer(s)                |
 | ------------------------------------------------ | ------------------------------- | :----------------------------------------: |
-| [vortex](https://github.com/revoltchat/vortex)   | Voice server                    |                  On Hold                   |
 | [autumn](https://github.com/revoltchat/autumn)   | File server micro-service       | [@insertish](https://github.com/insertish) |
-| [january](https://github.com/revoltchat/january) | Media proxy and embed generator | [@insertish](https://github.com/insertish) |
 
 ## Everything else
 
@@ -75,8 +72,8 @@ Here is a list of important repositories and who is managing each.
 
 | Repository                                                     | Description                                |                                     Maintainer(s)                                      |
 | -------------------------------------------------------------- | ------------------------------------------ | :------------------------------------------------------------------------------------: |
-| [awesome-revolt](https://github.com/revoltchat/awesome-revolt) | Awesome list for Revolt                    |                                       @everyone                                        |
-| [wiki](https://github.com/revoltchat/wiki)                     | Developers site                            |                                       @everyone                                        |
+| [awesome-revolt](https://github.com/revoltchat/awesome-revolt) | Awesome list for Revolt                    |                                                                               |
+| [wiki](https://github.com/revoltchat/wiki)                     | Developers site                            |                                                                               |
 | [cla](https://github.com/revoltchat/cla)                       | Contributor License Agreement              |                                                                                        |
 | [contributions](https://github.com/revoltchat/contributions)   | Open source contribution tracker           |                       [@insertish](https://github.com/insertish)                       |
 | [genemoji](https://github.com/revoltchat/genemoji)             | Emoji pack structure unification toolchain |                            [@infi](https://github.com/infi)                            |
@@ -84,6 +81,6 @@ Here is a list of important repositories and who is managing each.
 | [revolt](https://github.com/revoltchat/revolt)                 | Organisation repository                    |                                                                                        |
 | [revolt.chat](https://github.com/revoltchat/revolt.chat)       | Landing page                               |                                                                                        |
 | [revolt.py](https://github.com/revoltchat/revolt.py)           | Python wrapper                             |                                                                                        |
-| [self-hosted](https://github.com/revoltchat/self-hosted)       | Docker Compose Configuration               |                                                                                        |
-| [themes](https://github.com/revoltchat/themes)                 | Revite themes                              |                       [@Rexogamer](https://github.com/Rexogamer)                       |
-| [translations](https://github.com/revoltchat/translations)     | Client translations                        |                       [@Rexogamer](https://github.com/Rexogamer)                       |
+| [self-hosted](https://github.com/revoltchat/self-hosted)       | Docker Compose Configuration               |                             [@DeclanChidlow](https://github.com/DeclanChidlow)                                                           |
+| [themes](https://github.com/revoltchat/themes)                 | Revite themes                              |                                         |
+| [translations](https://github.com/revoltchat/translations)     | Client translations                        |                                        |
