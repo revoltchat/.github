@@ -27,7 +27,7 @@ Get Revolt for your platform [from the website](https://revolt.chat/download)!
 
 ## Clients
 
-Here are clients being maintained under Revolt's organisation, though not all of them are necessarily maintained by the core team and instead are community projects (you can also find more [third-party clients here](https://github.com/revoltchat/awesome-revolt?tab=readme-ov-file#-third-party-clients)).
+Here are clients being maintained under Revolt's organisation:
 
 > [!NOTE]
 > revoltchat/frontend is the next-generation Revolt client, [more details here](https://revolt.chat/posts/refreshing-revolt-web)
@@ -38,8 +38,8 @@ Here are clients being maintained under Revolt's organisation, though not all of
 | [frontend](https://github.com/revoltchat/frontend)           | Solid.js Progressive Web App | [@insertish](https://github.com/insertish) |                     |      🚥       |
 | [android](https://github.com/revoltchat/android)             | Android App                  |      [@infi](https://github.com/infi)      |                     |      🚥       |
 | [ios](https://github.com/revoltchat/ios)                     | iOS App                      |  [@zomatree](https://github.com/zomatree)  |                     |      🚥       |
-| [rvmob](https://github.com/revoltchat/rvmob)                 | React Native Client          | [@Rexogamer](https://github.com/rexogamer) |                     |      ✅       |
-| [mutiny](https://github.com/revoltchat/mutiny)               | GTK4 Desktop Client          |                                            |                     |               |
+
+You can find additional 3rd party clients [here](https://wiki.rvlt.gg/index.php/Revolt_Clients).
 
 There are also some wrappers and adjacent repositories:
 
@@ -59,12 +59,6 @@ Below is a list of all the repositories relevant to developing the core Revolt s
 | [rfcs](https://github.com/revoltchat/rfcs)           | RFCs for changes to Revolt               | [@insertish](https://github.com/insertish) |
 | [api](https://github.com/revoltchat/api)             | JavaScript API library                   | [@insertish](https://github.com/insertish) |
 | [revolt.js](https://github.com/revoltchat/revolt.js) | JavaScript library                       | [@insertish](https://github.com/insertish) |
-
-There are also some components which we intend to merge into the backend repository in the future:
-
-| Repository                                       | Description                     |               Maintainer(s)                |
-| ------------------------------------------------ | ------------------------------- | :----------------------------------------: |
-| [autumn](https://github.com/revoltchat/autumn)   | File server micro-service       | [@insertish](https://github.com/insertish) |
 
 ## Everything else
 
