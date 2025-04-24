@@ -9,7 +9,7 @@
 # Links
 
 - ### [🌍 Website](https://revolt.chat): The Revolt website.
-- ### [💖 Donate to Revolt](https://insrt.uk/donate): Help support the project.
+- ### [💖 Donate to Revolt](https://wiki.revolt.chat/notes/project/financial-support/): Help support the project.
 - ### [📖 Support](https://support.revolt.chat): Get help with using Revolt.
 - ### [✨ awesome-revolt](https://github.com/revoltchat/awesome-revolt): Find libraries and more!
 - ### [😎 Contributing to Revolt](https://github.com/revoltchat/.github/blob/master/.github/CONTRIBUTING.md): Learn how to contribute to Revolt.
