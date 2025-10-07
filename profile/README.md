@@ -1,3 +1,9 @@
+# 🚧
+
+We are currently moving to https://github.com/stoatchat!
+
+---
+
 # Welcome to Revolt's GitHub organisation!
 
 **Revolt** is an open source user-first chat platform. You can find links to useful resources about the project below.
