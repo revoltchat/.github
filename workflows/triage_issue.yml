@@ -6,6 +6,7 @@ on:
 
 jobs:
   track_issue:
+    if: github.repository_owner == 'revoltchat'
     runs-on: ubuntu-latest
     steps:
       - name: Get project data
